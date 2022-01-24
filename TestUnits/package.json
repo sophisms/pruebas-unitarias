@@ -1,0 +1,17 @@
+{
+  "name": "testunits",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sumaTestAssert.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  }
+}
